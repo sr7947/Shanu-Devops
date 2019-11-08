@@ -1,0 +1,1 @@
+print("welccome to India")
